@@ -1,3 +1,3 @@
-# CodeWarsChallengesJava
+# CodingProblemsJava
 
-My solutions to coding challenges from www.codewars.com strictly in Java
+This is a compilation of coding problems that I've done from websites such as LeetCode, CodeWars, HackerRank, etc.
