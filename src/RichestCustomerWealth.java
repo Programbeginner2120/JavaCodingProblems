@@ -21,7 +21,7 @@ public class RichestCustomerWealth {
     }
 
 
-//     public int maximumWealth(int[][] accounts) {
+//     public int maximumWealth(int[][] accounts) {  // This solution to the problem utilizes streams
 //         int max = 0;
 //         int currentSum;
 //         List <Integer> currentHolder;
