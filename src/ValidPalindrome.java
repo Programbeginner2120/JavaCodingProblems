@@ -14,7 +14,7 @@ class ValidPalindrome {
         return retString;
     }
 
-    public boolean isPalindrome(String s) { git status
+    public boolean isPalindrome(String s) {
         String characterString = "";
         for (int i = 0; i < s.length(); i++){
             if (Character.isLetterOrDigit(s.charAt(i)))
